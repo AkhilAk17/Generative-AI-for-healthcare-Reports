@@ -1,1 +1,1 @@
-# Generative-AI-for-healthcare-Reports
+This is my project under SOC for personalised healthcare reports 
